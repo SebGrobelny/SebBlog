@@ -1,4 +1,5 @@
 venv
 *.pyc
 staticfiles
+static_cdn
 .env
